@@ -11,7 +11,7 @@
 </head>
 <body>
     
-   <?php include 'menu.php' ?>
+   <include 'menu.php' />
 
 
 <div id="demo" class="carousel slide" data-ride="carousel">
